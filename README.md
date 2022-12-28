@@ -12,7 +12,11 @@ The code are created to globally investigate the spatial patterns of hot and col
 
 ### Data Preparation
 ```
+The data can be accessed through [Google Cloud Computing Platform](https://code.earthengine.google.com/3596a7d8f40f4195cf8102a0ce81ac3c)
+
+The code is as follows:
 1-extract-global-temperature.js
+
 ```
 
 ### Study global patterns of temperature extremes
