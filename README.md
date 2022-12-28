@@ -27,6 +27,8 @@ Investigated the global patterns of temperature extremes
 ### Further Reading
 ```
 [readpaper](https://journals.ametsoc.org/view/journals/bams/102/9/BAMS-D-20-0325.1.xml "Google's Homepage")
+[I'm an inline-style link](https://www.google.com)
+
 ```
 
 
