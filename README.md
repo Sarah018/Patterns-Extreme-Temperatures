@@ -1,6 +1,7 @@
 # Extreme-Temperatures
-```
+
 The code are created to globally investigate the spatial patterns of hot and cold extremes as well as diurnal temperature range (DTR). 
+```
 Methodology described in [the paper by Zhao, Yunxia, et al., 2021](https://journals.ametsoc.org/view/journals/bams/102/9/BAMS-D-20-0325.1.xml)
 ```
 ## Requirements
