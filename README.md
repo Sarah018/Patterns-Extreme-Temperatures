@@ -1,6 +1,8 @@
 # Extreme-Temperatures
+```
 The code are created to globally investigate the spatial patterns of hot and cold extremes as well as diurnal temperature range (DTR). 
-
+Methodology described in [the paper by Zhao, Yunxia, et al., 2021](https://journals.ametsoc.org/view/journals/bams/102/9/BAMS-D-20-0325.1.xml)
+```
 ## Requirements
 
 1. The project was implemented and tested in Python 3.7. The higher versions should work after minor modification.
@@ -22,11 +24,6 @@ The data can be accessed through [Google Cloud Computing Platform](https://code.
 4-plot-histogram.ipynb
 ```
 
-
-
-### Further Reading
-
-Methodology described in [Zhao, Yunxia, et al., 2021](https://journals.ametsoc.org/view/journals/bams/102/9/BAMS-D-20-0325.1.xml)
 
 
 
