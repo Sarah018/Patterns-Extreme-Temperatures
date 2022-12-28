@@ -1,3 +1,8 @@
+// The javascript code can be accessed through Google Earth Engine cloud computing platform at:
+// https://code.earthengine.google.com/3596a7d8f40f4195cf8102a0ce81ac3c
+
+// The code is as follows:
+
 var myd11a1 = ee.ImageCollection("MODIS/006/MYD11A1"),
     myd14a1 = ee.ImageCollection("MODIS/006/MYD14A1"),
     myd13a2 = ee.ImageCollection("MODIS/006/MYD13A2"),
