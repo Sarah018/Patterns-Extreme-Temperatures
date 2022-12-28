@@ -26,8 +26,8 @@ The code are created to globally investigate the spatial patterns of hot and col
 
 ### Further Reading
 ```
-Methodology described in [Zhao, Yunxia, et al., 2021](https://journals.ametsoc.org/view/journals/bams/102/9/BAMS-D-20-0325.1.xml)
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile.
+Methodology described in [Zhao, Yunxia, et al., 2021]([https://journals.ametsoc.org/view/journals/bams/102/9/BAMS-D-20-0325.1.xml](https://journals.ametsoc.org/view/journals/bams/102/9/BAMS-D-20-0325.1.xml))
+
 ```
 
 
